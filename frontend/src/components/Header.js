@@ -27,7 +27,7 @@ const Header = () => {
         <Navbar.Collapse id='basic-navbar-nav'>
           <Nav className='ml-auto'>
             <LinkContainer to='/profDetail/MNC'>
-              <Nav.Link>Prof Details</Nav.Link>
+              <Nav.Link>Faculty</Nav.Link>
             </LinkContainer>
             <LinkContainer to='/material'>
               <Nav.Link>Materials</Nav.Link>
